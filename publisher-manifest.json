@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "52ce38ca63ae8f6ea80fc356",
+  "owner": "rybrewsmsrc",
+  "repo": "page-8dda38124367d0dfab3ce169",
+  "title": "hmcloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "8dda38124367d0dfab3ce169",
+      "a": "hmcloud",
+      "b": "",
+      "entity": "hmcloud",
+      "brand": "hmcloud",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4ee0dcd368af26cff7f79627223ebad6c0a826558d1fa65680dd5859c334dd5b",
+      "content": {
+        "keyword1": "hmcloud",
+        "keyword2": "",
+        "primary_entity": "hmcloud",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "hmcloud 提供稳定可靠的跨网络连接方案与多平台客户端支持。查阅详尽的套餐配置、客户端使用说明及常见问题解答，构建属于您的顺畅连接体验。",
+          "AI_DESCRIPTION": "hmcloud 提供稳定可靠的跨网络连接方案与多平台客户端支持。查阅详尽的套餐配置、客户端使用说明及常见问题解答，构建属于您的顺畅连接体验。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n:root {--bg-color: #f3f4f6;--surface-color: #ffffff;--text-main: #1f2937;--text-muted: #4b553;--accent: #7c3aed;--accent-light: #f5f3ff;--border-dashed: #d1d5db}\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: var(--bg-color);color: var(--text-main);font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;padding: 2rem 1rem}\nmain {max-width: 900px;margin: 0 auto}\nsection {background: var(--surface-color);margin-bottom: 2rem;padding: 2.5rem 2rem;border-radius: 4px}\nh1 {font-size: clamp(3rem, 12vw, 8rem);font-weight: 900;text-transform: uppercase;color: var(--accent);line-height: 1;margin-bottom: 1rem;letter-spacing: -0.05em}\nh2 {font-size: 1.75rem;margin-bottom: 1.5rem;font-weight: 700;color: var(--text-main);border-left: 6px solid var(--accent);padding-left: 0.75rem}\nh3 {font-size: 1.25rem;margin-bottom: 0.75rem;font-weight: 600}\np {margin-bottom: 1rem;color: #374151}\n.hero-subtitle {font-size: 1.25rem;color: #4b5563;max-width: 600px;margin-bottom: 2rem}\n.hero-links {display: flex;gap: 1rem;flex-wrap: wrap}\n.btn {display: inline-block;background: var(--accent);color: #ffffff;padding: 0.75rem 1.5rem;text-decoration: none;font-weight: 600;border-radius: 4px}\n.btn-outline {background: transparent;color: var(--accent);border: 2px solid var(--accent)}\n.checklist {list-style: none;margin-bottom: 1.5rem}\n.checklist li {padding: 0.5rem 0;position: relative;padding-left: 1.5rem}\n.checklist li::before {content: \"✔\";position: absolute;left: 0;color: var(--accent);font-weight: bold}\n.plan-card {border: 2px dashed var(--border-dashed);padding: 2rem;margin-bottom: 1.5rem;background: #faf5ff}\n.plan-card.featured {border-color: var(--accent);background: var(--accent-light)}\n.plan-header {display: flex;justify-content: space-between;align-items: baseline;margin-bottom: 1rem;border-bottom: 1px dashed var(--border-dashed);padding-bottom: 1rem}\n.plan-price {font-size: 1.5rem;font-weight: bold;color: var(--accent)}\n.client-grid {display: grid;grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));gap: 1.5rem}\n.client-card {border: 2px dashed var(--border-dashed);padding: 1.5rem}\ndetails {border: 2px dashed var(--border-dashed);margin-bottom: 1rem;padding: 1rem 1.5rem;background: #ffffff}\nsummary {font-weight: 600;cursor: pointer;color: var(--accent)}\ndetails[open] summary {margin-bottom: 1rem;border-bottom: 1px dashed var(--border-dashed);padding-bottom: 0.5rem}\nfooter {text-align: center;font-size: 0.875rem;color: #6b7280;margin-top: 3rem}\n</style><main>\n  <section>\n    <h1>hmcloud</h1>\n    <p class=\"hero-subtitle\">面向未来的高吞吐、低延迟多端连接平台。为日常办公、远程协作与数据传输提供稳定可靠的通道支持。</p>\n    <div class=\"hero-links\">\n      <a href=\"#plans\" class=\"btn\">查看套餐方案</a>\n      <a href=\"#guide\" class=\"btn btn-outline\">查阅使用指南</a>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>服务套餐配置</h2>\n    <p>我们提供灵活的流量配额与节点权限选项，满足不同业务场景下的连接需求。以下套餐均支持按月或按年订阅。</p>\n    \n    <div class=\"plan-card\">\n      <div class=\"plan-header\">\n        <h3>基础版</h3>\n        <div class=\"plan-price\">¥15/月</div>\n      </div>\n      <p>按年付仅需 ¥150/年。</p>\n      <ul class=\"checklist\">\n        <li>每月 100GB 基础高速流量</li>\n        <li>支持 3 台设备同时在线连接</li>\n        <li>访问基础标准线路节点</li>\n        <li>标准技术支持响应</li>\n      </ul>\n    </div>\n\n    <div class=\"plan-card featured\">\n      <div class=\"plan-header\">\n        <h3>旗舰版</h3>\n        <div class=\"plan-price\">¥35/月</div>\n      </div>\n      <p>按年付仅需 ¥350/年（推荐方案）。</p>\n      <ul class=\"checklist\">\n        <li>每月 300GB 高速流量配额</li>\n        <li>支持 5 台设备同时在线连接</li>\n        <li>全节点流媒体与多媒体解锁</li>\n        <li>专线加速优化，降低连接延迟</li>\n        <li>7x24 小时优先工单支持</li>\n      </ul>\n    </div>\n\n    <div class=\"plan-card\">\n      <div class=\"plan-header\">\n        <h3>团队版</h3>\n        <div class=\"plan-price\">¥85/月</div>\n      </div>\n      <p>按年付仅需 ¥850/年。</p>\n      <ul class=\"checklist\">\n        <li>每月 1000GB 极速流量配额</li>\n        <li>支持 20 台设备同时在线连接</li>\n        <li>VIP 专属高带宽独立节点</li>\n        <li>支持企业级定制路由策略</li>\n        <li>专属客户经理一对一服务</li>\n      </ul>\n    </div>\n  </section>\n\n  <section id=\"clients\">\n    <h2>客户端支持</h2>\n    <p>hmcloud 兼容主流操作系统与开源客户端生态，您可以根据当前使用的设备选择对应的连接工具。</p>\n    <div class=\"client-grid\">\n      <div class=\"client-card\">\n        <h3>Windows 平台</h3>\n        <p>推荐使用 Clash Verge Rev 或 sing-box 客户端，配合订阅链接一键导入配置文件。</p>\n      </div>\n      <div class=\"client-card\">\n        <h3>macOS 平台</h3>\n        <p>支持 ClashX Meta、Flclash 以及原生客户端，提供流畅的系统级代理托管体验。</p>\n      </div>\n      <div class=\"client-card\">\n        <h3>移动端 (iOS / Android)</h3>\n        <p>iOS 端可使用 Shadowrocket 或 Stash；Android 端推荐 v2rayNG 或 Surfboard。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>快速上手说明</h2>\n    <p>只需简单三步，即可完成 hmcloud 的配置与接入：</p>\n    <ol class=\"checklist\">\n      <li>注册账户并购买符合您需求的流量套餐。</li>\n      <li>在用户中心复制专属的“订阅链接”或导出配置文件。</li>\n      <li>将链接导入对应的客户端软件中，更新节点后即可启用连接。</li>\n    </ol>\n  </section>\n\n  <section id=\"faq\">\n    <h2>常见问题解答</h2>\n    \n    <details>\n      <summary>如何获取和导入订阅链接？</summary>\n      <p>登录 hmcloud 用户中心，在仪表盘首页即可找到“一键导入”或“复制订阅地址”按钮。将复制的链接粘贴到您所使用客户端的订阅管理页面中，执行更新操作即可加载可用节点。</p>\n    </details>\n\n    <details>\n      <summary>套餐流量是如何计算与重置的？</summary>\n      <p>流量计算包含上行与下行总和。所有套餐均在您购买当天的对应时间点进行自然月度重置，未使用完的流量不会累积到下一个计费周期。</p>\n    </details>\n\n    <details>\n      <summary>支持同时在多台设备上使用吗？</summary>\n      <p>支持。不同的套餐对应不同的在线设备上限（例如基础版 3 台、旗舰版 5 台、团队版 20 台）。请确保不要超出授权数量，以免触发系统的安全访问限制。</p>\n    </details>\n\n    <details>\n      <summary>连接遇到异常或延迟较高时该如何排查？</summary>\n      <p>首先请尝试在客户端内手动更新订阅以获取最新节点列表；其次检查本地网络连接状态；若问题依旧存在，可以通过后台工单系统联系技术支持获取协助。</p>\n    </details>\n  </section>\n\n  <footer>\n    <p>© hmcloud. All rights reserved.</p>\n  </footer>\n</main>",
+          "hash": "1fcd2b9e827568bb3217a3e136f99e05db8745fc516f4e64b3e6bb8dbe443fce",
+          "seo": {
+            "title": "hmcloud - 高效网络代理与多端连接方案",
+            "keywords": "hmcloud, 网络连接, 代理服务, 流量套餐, 客户端下载, 常见问题",
+            "description": "hmcloud 提供稳定可靠的跨网络连接方案与多平台客户端支持。查阅详尽的套餐配置、客户端使用说明及常见问题解答，构建属于您的顺畅连接体验。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "9353",
+            "hero": "2 超大字号品牌名铺满首屏的海报式",
+            "palette": "4 浅灰配电光紫",
+            "nav": "6 无导航，用区块内的跳转链接",
+            "card": "6 虚线框票据风格",
+            "plans_view": "4 单列大卡依次堆叠",
+            "faq_view": "4 details 折叠",
+            "tone": "6 清单式务实口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "ghjlc.cn",
+    "host": "p-8ca09b70b9.ghjlc.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0e2bcc287c04facc2e5b11c25d21f8140fdd1340b3742e32838a54818c3d4929",
+    "sitemap.xml": "0c0336a7f7c9435b8142bdf15e0f79fea5c17f1aa38a2274334cfd6ebbc3c6bf",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "27b1bb0f870217854663c3182611faede887daa7c24381477b0e9ca19c8b4b94",
+    "robots.txt": "ea70d97f84cb314e4892e86bc1f128a304bdfe0cfb6434b607ea1a942899086a",
+    "f37fb9357a677ea8e3840d4f2dbe0af7.txt": "655b18e5d0b2059bee9fb0ccf96dbd8cd8447af9759b5045daa414d3462572fe"
+  },
+  "revision": "ced0586fe7c453ea7c6e8e358a4c5d393643f78d0547cb35b89b57938b2d44f2"
+}
